@@ -1,0 +1,10 @@
+C:\Users\Jesper\Desktop\MobilePay\Application\bin\Debug\Application.exe.config
+C:\Users\Jesper\Desktop\MobilePay\Application\bin\Debug\Application.exe
+C:\Users\Jesper\Desktop\MobilePay\Application\bin\Debug\Application.pdb
+C:\Users\Jesper\Desktop\MobilePay\Application\bin\Debug\LogComponent.dll
+C:\Users\Jesper\Desktop\MobilePay\Application\bin\Debug\LogComponent.pdb
+C:\Users\Jesper\Desktop\MobilePay\Application\obj\Debug\Application.csprojAssemblyReference.cache
+C:\Users\Jesper\Desktop\MobilePay\Application\obj\Debug\Application.csproj.CoreCompileInputs.cache
+C:\Users\Jesper\Desktop\MobilePay\Application\obj\Debug\Application.csproj.CopyComplete
+C:\Users\Jesper\Desktop\MobilePay\Application\obj\Debug\Application.exe
+C:\Users\Jesper\Desktop\MobilePay\Application\obj\Debug\Application.pdb
